@@ -1,0 +1,22 @@
+{
+  "name": "leadflow-workspace",
+  "version": "1.0.0",
+  "description": "LeadFlow - Lightweight CRM for Financial Advisors and Sales Teams by Pravar AI",
+  "scripts": {
+    "dev:frontend": "cd frontend && npm run dev",
+    "dev:backend": "cd backend && uvicorn app.main:app --reload --port 8000",
+    "build:frontend": "cd frontend && npm run build",
+    "test:backend": "cd backend && python test_api.py",
+    "seed": "cd backend && python -m app.seed"
+  },
+  "keywords": [
+    "crm",
+    "lead-management",
+    "fastapi",
+    "nextjs",
+    "wealth-management",
+    "pravar-ai"
+  ],
+  "author": "Pravar AI Candidate",
+  "license": "MIT"
+}
