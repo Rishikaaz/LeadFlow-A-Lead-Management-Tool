@@ -44,7 +44,7 @@ LeadFlow is a high-performance, single-screen CRM designed for high-velocity wea
 | :---: | :---: |
 | ![LeadFlow Dashboard](./docs/screenshots/leadflow_dashboard.png) | ![LeadFlow Timeline Dialog](./docs/screenshots/leadflow_timeline_dialog.png) |
 
-| Updated State & New Lead Added | Browser Session Recording |
+| Updated State & New Lead Added |
 | :---: | :---: |
 | ![LeadFlow Updated State](./docs/screenshots/leadflow_updated_state.png) |
 
