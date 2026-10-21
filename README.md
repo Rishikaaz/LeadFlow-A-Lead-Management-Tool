@@ -68,7 +68,7 @@ LeadFlow is a high-performance, single-screen CRM designed for high-velocity wea
 
 #### 1. Clone the repository
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Rishikaaz/LeadFlow-A-Lead-Management-Tool
 cd LeadFlow
 ```
 
